@@ -1,4 +1,4 @@
 export default function sum(m, n) {
 	let sum = m + n
-	return sum
+	console.log(sum)
 }
