@@ -6,3 +6,7 @@
 
 npm install --save @luckyproto/sum
 
+It will be recuisive the function recursiveSum,when we pass in number 3 it will be output number 6.
+
+recursiveSum(3) => 6
+
