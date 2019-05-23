@@ -1,4 +1,3 @@
-export default function sum(m, n) {
-	let sum = m + n
-	return sum
-}
+import recursiveSum from './recursiveSum.js'
+
+export default recursiveSum
